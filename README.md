@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ssalihkaya
+- 👀 I’m interested in technology and software
+- 🌱 I’m currently learning C# & JavaScript
+- 💞️ I want to collaborate on knowledge learning and development
